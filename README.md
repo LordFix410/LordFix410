@@ -145,39 +145,6 @@ Desde 2023 desarrollo e implemento soluciones de producción multimedia, servido
 
 ---
 
-## 💼 Experiencia
-
-| Periodo | Rol | Dónde |
-|:--|:--|:--|
-| **2023 – Actualidad** | Desarrollo de Software, Soporte Técnico e Infraestructura TI | Iglesia de Cristo Judá Maranatha |
-| **2023 – 2025** | Analista de Inventarios y Pago a Proveedores, con soporte TI interno | CERSA |
-| **2026** | Modernización tecnológica: redes, equipos y optimización de procesos | Miscelánea Win |
-
----
-
-## 🎓 Formación y certificaciones
-
-- 🏛️ **Ingeniería en Sistemas de Información y Ciencias de la Computación**, Universidad Mariano Gálvez (8.º semestre, en curso)
-- 🎒 **Bachillerato en Ciencias y Letras con Orientación en Computación**, Colegio Adventista Orión
-- 📚 **Formación continua en Kodree:** Full Stack, HTML + CSS, JavaScript, Análisis de Datos, Gestión de Proyectos, Comunicación y Liderazgo
-
-<details>
-<summary><b>🏅 Ver las 9 certificaciones (Kodree)</b></summary>
-<br/>
-
-| Área | Certificación |
-|:--|:--|
-| 📊 Datos | Tableau · Data Analytics · Google Sheets |
-| 🔐 Seguridad | Cybersecurity and AI · Team Security · Cybersecurity for Non-Tech Professionals |
-| 🛢️ Base de datos | SQL |
-| 🌐 Web y desarrollo | How the Web Works · Git and Terminal |
-
-Puedes consultar cada credencial en mi [portafolio](https://lordfix410.github.io/Curriculum/#certificaciones).
-
-</details>
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
