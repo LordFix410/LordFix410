@@ -10,7 +10,6 @@
 ![Visitas](https://komarev.com/ghpvc/?username=LordFix410&label=Visitas&color=58a6ff&style=for-the-badge)
 ![Seguidores](https://img.shields.io/github/followers/LordFix410?label=Seguidores&style=for-the-badge&logo=github&color=1e2327&labelColor=58a6ff)
 ![Ubicación](https://img.shields.io/badge/Guatemala-1e2327?style=for-the-badge&labelColor=58a6ff)
-![Disponible](https://img.shields.io/badge/Disponible_para_oportunidades-2ea043?style=for-the-badge)
 
 </div>
 
